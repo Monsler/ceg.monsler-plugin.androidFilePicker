@@ -5,7 +5,7 @@ Add following to your `build.settings` to use:
 {
     plugins = {
         "plugin.androidFilePicker" = {
-            publisherId = "tech.scotth",
+            publisherId = "ceg.monsler",
         },
     },
 }
