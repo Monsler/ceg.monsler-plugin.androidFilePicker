@@ -1,7 +1,7 @@
 local Library = require "CoronaLibrary"
 
 -- Create stub library for simulator
-local lib = Library:new{ name='plugin.androidFileShare', publisherId='tech.scotth' }
+local lib = Library:new{ name='plugin.androidFileShare', publisherId='ceg.monsler' }
 
 -- Default implementations
 local function defaultFunction()
